@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -21,15 +25,12 @@
   height: 1.5em;
 }
 
-* {
-    box-sizing: border-box;
-}
 body {
     min-height: 100vh;
     margin: 0;
     font-family: sans-serif;
 /*     overflow: hidden; */
-}
+/*}
 table {
     width: 100%;
     height: calc(100vh - 100px);
