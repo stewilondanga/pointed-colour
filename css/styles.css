@@ -24,13 +24,14 @@ body {
   height: 1.5em;
 }
 
-/*table {
-    width: 100%;
-    height: calc(100vh - 100px);
-    table-layout: fixed;
-    border-collapse: collapse;
+table {
+  width: 100%;
+  height: calc(100vh - 100px);
+  table-layout: fixed;
+  border-collapse: collapse;
 }
-td {
+
+/*td {
     border: 1px solid #efefef;
     background: hsl(var(--h),var(--s),var(--l));
     opacity: 0;
