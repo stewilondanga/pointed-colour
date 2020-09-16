@@ -148,17 +148,18 @@ input[type=range]::-ms-fill-upper {
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0), 0px 0px 1px rgba(13, 13, 13, 0);
 }
 
-/*input[type=range]::-ms-thumb {
-    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0), 0px 0px 1px rgba(13, 13, 13, 0);
-    border: 3px solid #920000;
-    height: 17px;
-    width: 16px;
-    border-radius: 20px;
-    background: #ff54ff;
-    cursor: pointer;
-    height: 8px;
+input[type=range]::-ms-thumb {
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0), 0px 0px 1px rgba(13, 13, 13, 0);
+  border: 3px solid #920000;
+  height: 17px;
+  width: 16px;
+  border-radius: 20px;
+  background: #ff54ff;
+  cursor: pointer;
+  height: 8px;
 }
-input[type=range]:focus::-ms-fill-lower {
+
+/*input[type=range]:focus::-ms-fill-lower {
     background: #48a0f1;
 }
 input[type=range]:focus::-ms-fill-upper {
