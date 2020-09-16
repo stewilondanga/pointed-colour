@@ -31,12 +31,13 @@ table {
   border-collapse: collapse;
 }
 
-/*td {
-    border: 1px solid #efefef;
-    background: hsl(var(--h),var(--s),var(--l));
-    opacity: 0;
-    transition: opacity var(--d) ease-out;
+td {
+  border: 1px solid #efefef;
+  background: hsl(var(--h), var(--s), var(--l));
+  opacity: 0;
+  transition: opacity var(--d) ease-out;
 }
+
 /* td:hover, */
 /*td.hover{
     opacity: 1;
