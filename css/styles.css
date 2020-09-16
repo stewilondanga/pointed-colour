@@ -163,12 +163,11 @@ input[type=range]:focus::-ms-fill-lower {
   background: #48a0f1;
 }
 
-/*input[type=range]:focus::-ms-fill-upper {
-    background: #60acf3;
+input[type=range]:focus::-ms-fill-upper {
+  background: #60acf3;
 }
 
-
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
