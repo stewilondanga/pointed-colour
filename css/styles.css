@@ -20,12 +20,11 @@ body {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-
-table {
+/*table {
     width: 100%;
     height: calc(100vh - 100px);
     table-layout: fixed;
