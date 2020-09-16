@@ -39,12 +39,12 @@ td {
 }
 
 /* td:hover, */
-/*td.hover{
-    opacity: 1;
-    transition: none;
+td.hover {
+  opacity: 1;
+  transition: none;
 }
 
-.controls {
+/*.controls {
     top: 0;
     right: 0;
     width: 100%;
