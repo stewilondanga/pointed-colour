@@ -134,13 +134,14 @@ input[type=range]::-ms-track {
   color: transparent;
 }
 
-/*input[type=range]::-ms-fill-lower {
-    background: #3094ef;
-    border: 0px solid rgba(1, 1, 1, 0);
-    border-radius: 16.2px;
-    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0), 0px 0px 1px rgba(13, 13, 13, 0);
+input[type=range]::-ms-fill-lower {
+  background: #3094ef;
+  border: 0px solid rgba(1, 1, 1, 0);
+  border-radius: 16.2px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0), 0px 0px 1px rgba(13, 13, 13, 0);
 }
-input[type=range]::-ms-fill-upper {
+
+/*input[type=range]::-ms-fill-upper {
     background: #48a0f1;
     border: 0px solid rgba(1, 1, 1, 0);
     border-radius: 16.2px;
