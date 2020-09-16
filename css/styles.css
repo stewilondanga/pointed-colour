@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -43,7 +43,7 @@ td {
     transition: opacity var(--d) ease-out;
 }
 /* td:hover, */
-td.hover{
+/*td.hover{
     opacity: 1;
     transition: none;
 }
