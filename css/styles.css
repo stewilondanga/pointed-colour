@@ -125,15 +125,16 @@ input[type=range]::-moz-range-thumb {
   cursor: pointer;
 }
 
-/*input[type=range]::-ms-track {
-    width: 100%;
-    height: 8px;
-    cursor: pointer;
-    background: transparent;
-    border-color: transparent;
-    color: transparent;
+input[type=range]::-ms-track {
+  width: 100%;
+  height: 8px;
+  cursor: pointer;
+  background: transparent;
+  border-color: transparent;
+  color: transparent;
 }
-input[type=range]::-ms-fill-lower {
+
+/*input[type=range]::-ms-fill-lower {
     background: #3094ef;
     border: 0px solid rgba(1, 1, 1, 0);
     border-radius: 16.2px;
