@@ -55,13 +55,14 @@ td.hover {
   background: hsl(180, 50%, 90%);
 }
 
-/*label {
-    text-align: center;
-    text-transform: uppercase;
-    font-weight: 600;
-    font-size: .7rem;
+label {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: .7rem;
 }
-output {
+
+/*output {
     font-weight: 100;
     font-size: 1.5rem;
     text-transform: none;
